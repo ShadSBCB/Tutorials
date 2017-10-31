@@ -4,6 +4,7 @@ Files included:
 
 gen_metadata.sh
 process_umbrellas.sh
+topol.tpr (obtained from https://plumed.github.io/doc-v2.3/user-doc/html/belfast-4.html)
 truncate_colvars.sh
 umbrellas.sh
 UmbrellaSampling_v2.pdf
